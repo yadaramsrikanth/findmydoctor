@@ -13,7 +13,7 @@ const DoctorDetails=()=>{
     const navigate=useNavigate()
     const doctor=doctorsDetails.find((item)=>id===(item.id).toString())
     console.log(doctor)
-
+const onLeave=doctor.status.toLowerCase().includes("leave")
     const getdoctordetaiStatus=(status)=>{
         if (status.toLowerCase().includes("available")) return "doctor-detail-available"
     if(status.toLowerCase().includes("fully booked")) return "doctor-detail-booked"
@@ -45,7 +45,7 @@ const DoctorDetails=()=>{
            return (<p key={index} className={isNotice?"doctor-time-unavailable":"doctor-time-available"}>{item}</p>
             )})}
         
-        <button  onClick={()=>setIsModalOpen(true)} className="book-appointment-button">Book Appointment</button> 
+        <button style={{backgroundColor:onLeave&&'#ccc',opacity:onLeave?1:1,cursor:onLeave?"not-allowed":"pointer"}} disabled={onLeave} onClick={()=>setIsModalOpen(true)} className="book-appointment-button">Book Appointment</button> 
         <AppointmentModal  appointmentModalClose={appointmentModalClose} isOpen={isModalOpen}   onRequestClose={() => setIsModalOpen(false)}/>
         </div>   
         </li>
