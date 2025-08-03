@@ -1,0 +1,100 @@
+.doctor-details-main-bg-container{
+    background-color: #F1F5F9;
+    min-height: 100vh;
+    padding:40px 20px 20px 50px;
+}
+.back-button{
+    font-size: 20px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.doctor-details-container{
+    background-color: 	#FFFFFF;
+    min-height: 70vh;
+    width: 70%;
+     box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+     border-radius: 12px;
+     margin: 10px auto;
+     list-style-type: none;
+     padding-left: 0px;
+     display: flex;
+}
+.doctor-details-list-item-card{
+    padding: 15px;
+    display: flex;
+    flex-direction: row;
+}
+.doctor-details-image{
+    height: 130px;
+   
+  width: 100px;
+  border-radius: 50%;
+  border: 3px solid #CBD5E1;
+}
+.doctor-all-details-container{
+    margin-left: 12px;
+}
+.doctor-details-name{
+    color: 	#1E293B;
+    font-size: 20px;
+    font-weight: 700;margin-bottom: 5px;
+}
+.doctor-details-specialization{
+    color: #334155;
+    font-size: 18px;
+    font-weight: 600;margin-bottom: 5px;
+}
+.doctor-detail-status{
+    font-size:16px ;
+    font-weight: 600;
+    width: 18%;
+    padding: 6px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.doctor-detail-available{
+    color: #16A34A;
+    background-color: #DCFCE7;
+}
+.doctor-detail-booked{
+    color: 	#DC2626;
+    background-color: #FEE2E2;
+}
+.doctor-detail-leave{
+    color: #F97316;
+    background-color: #FFEDD5;
+    
+}
+.doctor-details-bio{
+    color: #475569;
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.book-appointment-button{
+    color: #FFFFFF;
+    background-color: #2563EB;
+    padding: 10px;
+    border: none;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 5px;
+    margin-top: 8px;
+}
+.book-appointment-button:hover{
+background-color: #1D4ED8;
+}
+.doctor-time-unavailable{
+    font-size: 16px;
+    font-weight: 500;
+    color: #DC2626; ;
+}
+.doctor-time-available{
+     font-size: 16px;
+    font-weight: 500;
+    color:#0284C7 ;
+}

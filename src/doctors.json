@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Anjali Mehra",
+    "specialization": "Cardiologist",
+    "status": "Available Today",
+    "image": "https://randomuser.me/api/portraits/women/65.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Rohit Sharma",
+    "specialization": "Orthopedic",
+    "status": "Fully Booked",
+    "image": "https://randomuser.me/api/portraits/men/44.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Neha Verma",
+    "specialization": "Dermatologist",
+    "status": "Available Today",
+    "image": "https://randomuser.me/api/portraits/women/48.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Sameer Reddy",
+    "specialization": "Pediatrician",
+    "status": "On Leave",
+    "image": "https://randomuser.me/api/portraits/men/22.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Kavya Iyer",
+    "specialization": "Neurologist",
+    "status": "Fully Booked",
+    "image": "https://randomuser.me/api/portraits/women/55.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Harsh Vardhan",
+    "specialization": "ENT Specialist",
+    "status": "Available Today",
+    "image": "https://randomuser.me/api/portraits/men/61.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Sneha Kulkarni",
+    "specialization": "Gynecologist",
+    "status": "Available Today",
+    "image": "https://randomuser.me/api/portraits/women/39.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Dr. Akash Patil",
+    "specialization": "General Physician",
+    "status": "On Leave",
+    "image": "https://randomuser.me/api/portraits/men/50.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Dr. Priya D'Souza",
+    "specialization": "Psychiatrist",
+    "status": "Fully Booked",
+    "image": "https://randomuser.me/api/portraits/women/60.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Dr. Manish Desai",
+    "specialization": "Oncologist",
+    "status": "Available Today",
+    "image": "https://randomuser.me/api/portraits/men/38.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Dr. Ritu Raj",
+    "specialization": "Endocrinologist",
+    "status": "Available Today",
+    "image": "https://randomuser.me/api/portraits/women/52.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Dr. Deepika Singh",
+    "specialization": "Pulmonologist",
+    "status": "Fully Booked",
+    "image": "https://randomuser.me/api/portraits/women/36.jpg"
+  }
+]

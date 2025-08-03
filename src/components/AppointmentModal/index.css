@@ -1,0 +1,43 @@
+.modal {
+  background: white;
+  padding:32px;
+  border-radius: 8px;
+  max-width: 400px;
+  margin: auto;
+}
+
+.overlay {
+  background: rgba(0, 0, 0, 0.6);
+  position: fixed;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.appointment-booking-form input{
+  display: block;
+  width: 100%;
+  margin-bottom: 16px;
+  padding: 8px;
+  border-radius: 5px;
+  outline: none;
+  border: 1px solid #E5E7EB;
+}
+.book-appointment-heading{
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+.appointment-booking-form button {
+  width: 100%;
+  padding: 0.5rem;
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+.success{
+    
+  color: green;
+  font-weight: bold;
+
+}

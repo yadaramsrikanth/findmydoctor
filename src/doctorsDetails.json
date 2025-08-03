@@ -1,0 +1,141 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Anjali Mehra",
+    "specialization": "Cardiologist",
+    "status": "Available Today",
+    "image": "https://randomuser.me/api/portraits/women/65.jpg",
+    "bio": "Dr. Anjali Mehra is a board-certified cardiologist with over 12 years of experience diagnosing and treating heart-related conditions. She specializes in preventive cardiology, hypertension management, and heart failure therapy. Known for her patient-first approach, Dr. Mehra combines modern technology with compassionate care. She earned her MD in Cardiology from AIIMS, Delhi, and has completed fellowships in interventional cardiology in both India and the UK. Her patients praise her calm demeanor, ability to explain complex conditions in simple terms, and her commitment to long-term health. She is also involved in several research projects focused on lifestyle-based prevention of heart disease. She regularly hosts webinars and awareness drives to promote heart health in urban populations. Dr. Mehra is fluent in English, Hindi, and Punjabi. She currently practices at CityCare Heart Institute and is available for consultations during weekdays and emergency procedures on weekends.",
+    "availability": [
+      "Mon: 9:00 AM – 12:00 PM",
+      "Tue: 10:00 AM – 1:00 PM",
+      "Wed: 4:00 PM – 7:00 PM"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Dr. Rohit Sharma",
+    "specialization": "Orthopedic",
+    "status": "Fully Booked",
+    "image": "https://randomuser.me/api/portraits/men/44.jpg",
+    "bio": "Dr. Rohit Sharma is an experienced orthopedic surgeon with over 15 years in the field. He is an expert in joint replacement surgeries, sports injuries, and trauma care. He completed his MS in Orthopedics from PGI Chandigarh and pursued advanced training in arthroscopy in Germany. Dr. Sharma is known for his precision in minimally invasive procedures and fast post-op recovery plans. He has performed over 5,000 successful surgeries and is a mentor for young orthopedic residents across several teaching hospitals. Apart from surgical expertise, he advocates for physical therapy and rehabilitation programs as part of holistic care. Patients value his honest guidance, structured treatment plans, and follow-up care. He currently heads the orthopedic department at Sunrise Multispeciality Hospital. While he's currently fully booked, appointments open weekly based on cancellations and follow-up prioritization.",
+    "availability": [
+      "Tue: 2:00 PM – 5:00 PM",
+      "Thu: 10:00 AM – 12:30 PM",
+      "Sat: 3:00 PM – 6:00 PM"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Dr. Neha Verma",
+    "specialization": "Dermatologist",
+    "status": "Available Today",
+    "image": "https://randomuser.me/api/portraits/women/48.jpg",
+    "bio": "Dr. Neha Verma is a highly skilled dermatologist specializing in cosmetic dermatology, acne treatment, and skin rejuvenation therapies. She has a decade of experience treating both chronic skin disorders and aesthetic concerns. Dr. Verma completed her MD in Dermatology from Kasturba Medical College and has participated in multiple international dermatology conferences. She is known for her personalized skin-care regimes and has helped hundreds of patients regain confidence through non-invasive cosmetic procedures. Her clinic features cutting-edge equipment for laser therapy, chemical peels, and advanced dermatologic imaging. She’s often featured in beauty and wellness blogs for her expert advice on skincare in Indian climates. Patients often describe her as friendly, honest, and results-driven. She offers consultations both online and in-clinic and is currently available for appointments Monday to Saturday.",
+     "availability": [
+      "Mon – Sat: 11:00 AM – 4:00 PM"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Dr. Sameer Reddy",
+    "specialization": "Pediatrician",
+    "status": "On Leave",
+    "image": "https://randomuser.me/api/portraits/men/22.jpg",
+    "bio": "Dr. Sameer Reddy is a compassionate pediatrician with over 10 years of experience caring for infants, children, and adolescents. He holds an MD in Pediatrics from Osmania Medical College and completed his fellowship in Neonatal Intensive Care. Dr. Reddy has worked in both urban hospitals and rural clinics, gaining wide exposure to childhood illnesses and developmental conditions. His approach focuses on early detection, vaccination, and parental education. He is known for his patience with children, detailed consultations, and responsive follow-up. He is actively involved in child nutrition awareness drives and has been invited to several parenting panels and school seminars. Currently on a short academic leave for international training, he will resume appointments in 3 weeks. Parents appreciate his dedication to holistic child health and clear, jargon-free communication.",
+     "availability": [
+      "Temporarily unavailable"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Dr. Kavya Iyer",
+    "specialization": "Neurologist",
+    "status": "Fully Booked",
+    "image": "https://randomuser.me/api/portraits/women/55.jpg",
+    "bio": "Dr. Kavya Iyer is a leading neurologist with deep expertise in diagnosing and managing epilepsy, migraines, Parkinson’s disease, and stroke rehabilitation. She completed her DM in Neurology from NIMHANS and has over 13 years of clinical and academic experience. Her work blends modern diagnostics like EEG, MRI interpretation, and neuropsychology with compassionate patient care. Dr. Iyer is known for her detailed evaluations, especially in difficult-to-diagnose cases. She regularly publishes in neurology journals and is a keynote speaker at multiple neuroconferences in India and abroad. Her clinic also offers support programs for caregivers of chronic neurological patients. Although she is currently fully booked, patients are encouraged to join her waitlist or consult via telehealth sessions. Her goal is to improve the quality of life for each of her patients through customized long-term treatment plans.",
+    "availability": [
+      "Wed: 10:00 AM – 1:00 PM",
+      "Fri: 3:00 PM – 6:00 PM"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Dr. Harsh Vardhan",
+    "specialization": "ENT Specialist",
+    "status": "Available Today",
+    "image": "https://randomuser.me/api/portraits/men/61.jpg",
+    "bio": "Dr. Harsh Vardhan is an ENT specialist with more than 11 years of experience in treating disorders related to the ear, nose, and throat. He specializes in sinus surgeries, hearing loss treatments, and voice-related disorders. A graduate of Maulana Azad Medical College, he completed advanced training in nasal endoscopy and cochlear implants. Patients appreciate his accurate diagnosis, quick intervention, and minimal wait times. He combines surgical skills with preventive advice, especially for allergy-prone individuals. Dr. Vardhan also works extensively with singers and public speakers for vocal care and therapy. His clinic is equipped with high-definition endoscopy and audiometry labs. Consultations are available daily, with same-day slots open for urgent ENT issues.",
+    "availability": [
+      "Mon – Sat: 9:30 AM – 12:30 PM",
+      "Sun: 10:00 AM – 1:00 PM"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Dr. Sneha Kulkarni",
+    "specialization": "Gynecologist",
+    "status": "Available Today",
+    "image": "https://randomuser.me/api/portraits/women/39.jpg",
+    "bio": "Dr. Sneha Kulkarni is a renowned gynecologist with over 14 years of experience in obstetrics, fertility treatments, and women’s wellness. She completed her DNB in Obstetrics and Gynecology and has received extensive training in high-risk pregnancy and laparoscopic surgeries. Dr. Kulkarni is praised for her patient-centered approach and her commitment to women’s reproductive health. She advocates for regular gynec check-ups, safe birthing practices, and mental health counseling for expectant mothers. Her clinic offers complete maternity packages, from prenatal to postnatal care. She has helped hundreds of women overcome fertility challenges through both natural and assisted methods. Dr. Kulkarni is fluent in English, Hindi, and Marathi and offers consultations every day except Sundays.",
+    "availability": [
+      "Mon – Sat: 10:00 AM – 2:00 PM"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Dr. Akash Patil",
+    "specialization": "General Physician",
+    "status": "On Leave",
+    "image": "https://randomuser.me/api/portraits/men/50.jpg",
+    "bio": "Dr. Akash Patil is a trusted general physician known for his thorough diagnosis, preventive care, and long-term health management. With over 9 years of experience, he treats a wide range of conditions including infections, diabetes, hypertension, and digestive issues. He graduated from Grant Medical College, Mumbai, and emphasizes a holistic approach to patient wellness. Dr. Patil is known for listening patiently and offering realistic, practical advice. He runs regular health checkup camps and is also involved in community outreach programs. Currently, he is on a short sabbatical and will resume consultations shortly. He believes in patient education as a key to better health outcomes and often provides printed guides and care plans to his patients.",
+     "availability": [
+      "Returning soon"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Dr. Priya D'Souza",
+    "specialization": "Psychiatrist",
+    "status": "Fully Booked",
+    "image": "https://randomuser.me/api/portraits/women/60.jpg",
+    "bio": "Dr. Priya D’Souza is a leading psychiatrist with expertise in anxiety disorders, depression, and adolescent mental health. She holds an MD in Psychiatry and has completed a fellowship in Cognitive Behavioral Therapy (CBT) in the UK. With over 12 years of experience, Dr. D’Souza believes in breaking the stigma around mental health and is an advocate for open conversations. She has helped hundreds of patients with therapy plans combining medication, counseling, and lifestyle changes. She also conducts workshops for workplaces and schools to promote emotional well-being. Although her appointments are currently full, urgent mental health evaluations are given priority. She is fluent in English, Hindi, and Konkani.",
+     "availability": [
+      "Tue: 3:00 PM – 6:00 PM",
+      "Thu: 11:00 AM – 2:00 PM"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Dr. Manish Desai",
+    "specialization": "Oncologist",
+    "status": "Available Today",
+    "image": "https://randomuser.me/api/portraits/men/38.jpg",
+    "bio": "Dr. Manish Desai is a senior oncologist with more than 16 years of experience in treating cancers of the breast, lungs, and colon. He completed his DM in Medical Oncology from Tata Memorial Hospital and has led several cancer research trials. Dr. Desai believes in an integrated approach to cancer care that includes chemotherapy, counseling, and nutrition. His patients appreciate his transparency, emotional support, and clarity throughout the treatment journey. He works closely with palliative care teams to ensure comfort for late-stage patients. Dr. Desai consults at two major hospitals in Mumbai and offers virtual follow-ups for long-term cancer survivors. He is available for new appointments this week.",
+     "availability": [
+      "Mon, Wed, Fri: 9:00 AM – 12:00 PM"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Dr. Ritu Raj",
+    "specialization": "Endocrinologist",
+    "status": "Available Today",
+    "image": "https://randomuser.me/api/portraits/women/52.jpg",
+    "bio": "Dr. Ritu Raj is an experienced endocrinologist treating patients with diabetes, thyroid disorders, PCOS, and hormonal imbalances. She earned her MD in Internal Medicine and DM in Endocrinology from AIIMS. With a decade of practice, she is known for her attention to detail, especially in lifestyle and diet-related disorders. She emphasizes long-term disease control through customized diet plans, medication optimization, and regular testing. Her clinic also offers insulin education, foot care programs, and metabolic counseling. Patients value her scientific explanations, prompt follow-up, and digital prescription services. Dr. Raj is currently open for consultations and telehealth appointments.",
+     "availability": [
+      "Mon – Fri: 10:00 AM – 1:00 PM"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Dr. Deepika Singh",
+    "specialization": "Pulmonologist",
+    "status": "Fully Booked",
+    "image": "https://randomuser.me/api/portraits/women/36.jpg",
+    "bio": "Dr. Deepika Singh is a specialist in respiratory and lung-related conditions including asthma, bronchitis, sleep apnea, and COPD. She holds an MD in Pulmonology and has trained in sleep medicine in Singapore. With over 10 years of experience, she is known for her sharp diagnosis and tailored treatment strategies. Dr. Singh is particularly focused on urban lung health and pollution-related respiratory issues. She also provides advanced care for patients with long COVID and offers regular spirometry tests at her clinic. Although currently fully booked, appointments can be requested with a waiting time of 2–3 days. She is a regular guest speaker on public health panels discussing respiratory wellness in polluted cities.",
+     "availability": [
+      "Check after 2–3 days"
+    ]
+  }
+]
